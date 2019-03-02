@@ -1,0 +1,388 @@
+#EXTM3U
+#EXTINF:0 tvg-id="TVPHD.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%20HD.png" country="pl" audio-track="pl" group-title="Popularny" ,TVP HD
+http://servlt.plusx.tv:8081/PL_TVP_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVP1.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%201%20HD.png" country="pl" audio-track="pl" group-title="Popularny" ,TVP 1 HD
+http://servlt.plusx.tv:8081/PL_TVP1_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVP2.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%202%20HD.png" country="pl" audio-track="pl" group-title="Popularny" ,TVP 2 HD
+http://servlt.plusx.tv:8081/PL_TVP2_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVP3.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png" country="pl" audio-track="pl" group-title="Popularny" ,TVP 3
+http://servlt.plusx.tv:8081/PL_TVP3/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVPHistoria.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%20Historia.png" country="pl" audio-track="pl" group-title="Popularny" ,TVP Historia
+http://servlt.plusx.tv:8081/PL_TVP_HISTORIA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVPInfo.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%20Info.png" country="pl" audio-track="pl" group-title="Informacje" ,TVP Info HD
+http://servlt.plusx.tv:8081/PL_TVP_INFO_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVPKultura.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%20Kultura.png" country="pl" audio-track="pl" group-title="Popularny" ,TVP Kultura
+http://servlt.plusx.tv:8081/PL_TVP_KULTURA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVPSport.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,TVP Sport HD
+http://servlt.plusx.tv:8081/PL_TVP_SPORT_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="BBCBrit.pl" tvg-name="BBC Brit" tvg-logo="http://logo.plusx.tv/logo/BBC%20Brit%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,BBC Brit HD
+http://servlt.plusx.tv:8081/PL_BBC_BRIT/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CanalplusSports.pl" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,Canal+ Sport HD
+http://servlt.plusx.tv:8081/PL_CANAL+_SPORT_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CanalplusSport2.pl" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,Canal+ Sport 2 HD
+http://servlt.plusx.tv:8081/PL_CANAL+_SPORT_2_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CBSEuropa.pl" tvg-logo="http://logo.plusx.tv/logo/CBS%20Europa%20HD.png" country="pl" audio-track="pl" group-title="Film" ,CBS Europa HD
+http://servlt.plusx.tv:8081/PL_CBS_EUROPE_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ComedyCentralFamily.pl" tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20Family.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Comedy Central Family HD
+http://servlt.plusx.tv:8081/PL_CC_FAMILY/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ComedyCentral.pl" tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Comedy Central HD
+http://servlt.plusx.tv:8081/PL_COMEDY_CENTRAL_POLAND_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ElevenSports1.pl" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png" country="pl" audio-track="pl" group-title="Sport" ,Eleven Sports 1 HD
+http://servlt.plusx.tv:8081/PL_ELEVEN_SPORTS_1_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ElevenSports2.pl" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png" country="pl" audio-track="pl" group-title="Sport" ,Eleven Sports 2 HD
+http://servlt.plusx.tv:8081/PL_ELEVEN_SPORTS_2_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ElevenSports3.pl" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png" country="pl" audio-track="pl" group-title="Sport" ,Eleven Sports 3 HD
+http://servlt.plusx.tv:8081/PL_ELEVEN_SPORTS_3_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ElevenSports4.pl" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png" country="pl" audio-track="pl" group-title="Sport" ,Eleven Sports 4 HD
+http://servlt.plusx.tv:8081/PL_ELEVEN_SPORTS4_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Eurosport.pl" tvg-name="Eurosport 1 HD" tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,Eurosport 1 HD
+http://servlt.plusx.tv:8081/PL_EUROSPORT1_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Eurosport2.pl" tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,Eurosport 2 HD
+http://servlt.plusx.tv:8081/PL_EUROSPORT2_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="SportKlub.pl" tvg-logo="http://taksiegra.pl/wp-content/uploads/2013/09/Sportklub.png" country="pl" audio-track="pl" group-title="Sport" ,SportKlub HD
+http://servlt.plusx.tv:8081/PL_SPORT_KLUB_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="FightKlub.pl" tvg-logo="http://logo.plusx.tv/logo/FightKlub%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,FightKlub HD
+http://servlt.plusx.tv:8081/PL_FIGHTKLUB_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="FoxComedy.pl" tvg-logo="http://logo.plusx.tv/logo/FOX%20Comedy%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,FOX Comedy HD
+http://servlt.plusx.tv:8081/PL_FOX_COMEDY_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="FoxComedy.pl" tvg-logo="http://logo.plusx.tv/logo/FOX%20Comedy.png" country="pl" audio-track="pl" group-title="Rozrywka" ,FOX Comedy
+http://servlt.plusx.tv:8081/PL_FOX_COMEDY/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="HBO.pl" tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png" country="pl" audio-track="pl" group-title="Film" ,HBO HD
+http://servlt.plusx.tv:8081/PL_HBO_HD_ORIG/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="HBO2.pl" tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png" country="pl" audio-track="pl" group-title="Film" ,HBO 2 HD
+http://servlt.plusx.tv:8081/PL_HBO2_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="HBO3.pl" tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png" country="pl" audio-track="pl" group-title="Film" ,HBO 3 HD
+http://servlt.plusx.tv:8081/PL_HBO3_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatSportExtra.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Extra%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,Polsat Sport Extra HD
+http://servlt.plusx.tv:8081/PL_POLSAT_SPORT_EXTRA_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatSportFight.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,Polsat Sport Fight HD
+http://servlt.plusx.tv:8081/PL_POLSAT_SPORT_FIGHT_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatSport.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,Polsat Sport HD
+http://servlt.plusx.tv:8081/PL_POLSAT_SPORT_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatSportNews.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20News%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,Polsat Sport News HD
+http://servlt.plusx.tv:8081/PL_POLSAT_SPORT_NEWS_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatSportPremium1.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Premium%201.png" country="pl" audio-track="pl" group-title="Sport" ,Polsat Sport Premium 1 HD
+http://servlt.plusx.tv:8081/PL_POLSAT_SPORT_PREMIUM_1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatSportPremium2.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Premium%201.png" country="pl" audio-track="pl" group-title="Sport" ,Polsat Sport Premium 2 HD
+http://servlt.plusx.tv:8081/PL_POLSAT_SPORT_PREMIUM_2/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatSportPpv3.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Premium%201.png" country="pl" audio-track="pl" group-title="Sport" ,Polsat Sport Premium 3 HD
+http://servlt.plusx.tv:8081/PL_POLSAT_SPORT_PREMIUM_3/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatSportPpv4.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Premium%201.png" country="pl" audio-track="pl" group-title="Sport" ,Polsat Sport Premium 4 HD
+http://servlt.plusx.tv:8081/PL_POLSAT_SPORT_PREMIUM_4/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatSportPpv5.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Premium%201.png" country="pl" audio-track="pl" group-title="Sport" ,Polsat Sport Premium 5 HD
+http://servlt.plusx.tv:8081/PL_POLSAT_SPORT_PREMIUM_5/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatSportPpv6.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Premium%201.png" country="pl" audio-track="pl" group-title="Sport" ,Polsat Sport Premium 6 HD
+http://servlt.plusx.tv:8081/PL_POLSAT_SPORT_PREMIUM_6/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="RedCarpetTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Superstacja_-_Logo.png" country="pl" audio-track="pl" group-title="Informacje" ,Superstacja
+http://servlt.plusx.tv:8081/PL_SUPERSTACJA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVrepublika.pl" tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png" country="pl" audio-track="pl" group-title="Informacje" ,TV Republika
+http://servlt.plusx.tv:8081/PL_TV_REPUBLIKA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TV4.pl" tvg-logo="http://logo.plusx.tv/logo/TV%204.png" country="pl" audio-track="pl" group-title="Popularny" ,TV 4
+http://servlt.plusx.tv:8081/PL_TV4_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TV6.pl" tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png" country="pl" audio-track="pl" group-title="Popularny" ,TV 6 HD
+http://servlt.plusx.tv:8081/PL_TV6/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVN24.pl" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png" country="pl" audio-track="pl" group-title="Informacje" ,TVN 24 HD
+http://servlt.plusx.tv:8081/PL_TVN24_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVNTurbo.pl" tvg-logo="http://logo.plusx.tv/logo/TVN%20Turbo%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,TVN Turbo HD
+http://servlt.plusx.tv:8081/PL_TVN_TURBO_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVS.pl" tvg-logo="http://logo.plusx.tv/logo/TVS.png" country="pl" audio-track="pl" group-title="Popularny" ,TVS
+http://servlt.plusx.tv:8081/PL_TVS/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="AXN.pl" tvg-logo="http://logo.plusx.tv/logo/AXN.png" country="pl" audio-track="pl" group-title="Rozrywka" ,AXN
+http://servlt.plusx.tv:8081/PL_AXN/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="AXNBlack.pl" tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png" country="pl" audio-track="pl" group-title="Rozrywka" ,AXN Black
+http://servlt.plusx.tv:8081/PL_AXN_BLACK/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="AXN.pl" tvg-name="AXN" tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,AXN HD
+http://servlt.plusx.tv:8081/PL_AXN_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="AXNSpinHD.pl" tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,AXN Spin HD
+http://servlt.plusx.tv:8081/PL_AXN_SPIN_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="AXNWhite.pl" tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png" country="pl" audio-track="pl" group-title="Rozrywka" ,AXN White
+http://servlt.plusx.tv:8081/PL_AXN_WHITE/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Adventure.pl" tvg-logo="http://logo.plusx.tv/logo/Adventure%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Adventure HD
+http://servlt.plusx.tv:8081/PL_ADVENTURE_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ActiveFamily.pl" tvg-logo="http://pici.life/lg/PL/active_family.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Active Family
+http://servlt.plusx.tv:8081/PL_ACTIVE_FAMILY/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="AleKino.pl" tvg-logo="http://logo.plusx.tv/logo/Ale%20Kino+%20HD.png" country="pl" audio-track="pl" group-title="Film" ,Ale Kino+ HD
+http://servlt.plusx.tv:8081/PL_ALE_KINO+_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="AnimalPlanetHD.pl" tvg-logo="http://logo.plusx.tv/logo/Animal%20Planet%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,Animal Planet HD
+http://servlt.plusx.tv:8081/PL_ANIMAL_PLANET_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="BBCEarth.pl" tvg-name="BBC Earth" tvg-logo="http://logo.plusx.tv/logo/BBC%20Earth%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,BBC Earth HD
+http://servlt.plusx.tv:8081/PL_BBC_EARTH_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="BBCHD.pl" tvg-name="BBC HD" tvg-logo="http://logo.plusx.tv/logo/BBC%20Frist.png" country="pl" audio-track="pl" group-title="Rozrywka" ,BBC First HD
+http://servlt.plusx.tv:8081/PL_BBC_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Boomerang.pl" tvg-logo="http://logo.plusx.tv/logo/Boomerang%20HD.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,Boomerang HD
+http://servlt.plusx.tv:8081/PL_BOOMERANG_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CanalplusDiscovery.pl" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Discovery%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,Canal+ Discovery HD
+http://servlt.plusx.tv:8081/PL_CANAL+_DISCOVERY_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CanalplusFamily.pl" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png" country="pl" audio-track="pl" group-title="Film" ,Canal+ Family HD
+http://servlt.plusx.tv:8081/PL_CANAL+_FAMILY_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CanalplusFilm.pl" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png" country="pl" audio-track="pl" group-title="Film" ,Canal+ Film HD
+http://servlt.plusx.tv:8081/PL_CANAL_FILM_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Canalplus.pl" tvg-logo="http://logo.plusx.tv/logo/Canal+%20HD.png" country="pl" audio-track="pl" group-title="Film" ,Canal+ HD
+http://servlt.plusx.tv:8081/PL_CANAL_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CanalPlusNow.pl" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Now.png" country="pl" audio-track="pl" group-title="Sport" ,Canal+ Now HD
+http://servlt.plusx.tv:8081/PL_CANAL+_NOW/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CanalPlusSeriale.pl" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png" country="pl" audio-track="pl" group-title="Film" ,Canal+ Seriale HD
+http://servlt.plusx.tv:8081/PL_CANAL_SERIALE_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CanalplusFamily2.pl" tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png" country="pl" audio-track="pl" group-title="Film" ,Canal+ 1 HD
+http://servlt.plusx.tv:8081/PL_CANAL+_1_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CBSAction.pl" tvg-logo="http://logo.plusx.tv/logo/CBS%20Action.png" country="pl" audio-track="pl" group-title="Film" ,CBS Action
+http://servlt.plusx.tv:8081/PL_CBS_ACTION/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CBSReality.pl" tvg-logo="http://logo.plusx.tv/logo/CBS%20Reality.png" country="pl" audio-track="pl" group-title="Dokument" ,CBS Reality
+http://servlt.plusx.tv:8081/PL_CBS_REALITY/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Cinemax2.pl" tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png" country="pl" audio-track="pl" group-title="Film" ,Cinemax 2 HD
+http://servlt.plusx.tv:8081/PL_CINEMAX2_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="DaVinciLearning.pl" tvg-logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png" country="pl" audio-track="pl" group-title="Dokument" ,Da Vinci Learning
+http://servlt.plusx.tv:8081/PL_DAVINCI_LEARNING/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Discovery.pl" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,Discovery Channel HD
+http://servlt.plusx.tv:8081/PL_DISCOVERY_CHANNEL_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="DiscoveryHistoria.pl" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Historia.png" country="pl" audio-track="pl" group-title="Dokument" ,Discovery Historia
+http://servlt.plusx.tv:8081/PL_DISCOVERY_HISTORIA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="DiscoveryLife.pl" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Life.png" country="pl" audio-track="pl" group-title="Dokument" ,Discovery Life HD
+http://servlt.plusx.tv:8081/PL_DISCOVERY_LIFE_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="DiscoveryScience.pl" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Science%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,Discovery Science HD
+http://servlt.plusx.tv:8081/PL_DISCOVERY_SCIENCE_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ExtremeSports.pl" tvg-logo="http://logo.plusx.tv/logo/Extreme%20Sports%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,Extreme Sports HD
+http://servlt.plusx.tv:8081/PL_EXTREME_SPORTS_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="FightBox.pl" tvg-logo="http://logo.plusx.tv/logo/FightBox%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,FightBox HD
+http://servlt.plusx.tv:8081/PL_FIGHTBOX_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="FilmboxFamily.pl" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Family.png" country="pl" audio-track="pl" group-title="Film" ,Filmbox Family
+http://servlt.plusx.tv:8081/PL_FILMBOX_FAMILY/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="FilmboxAction.pl" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Action.png" country="pl" audio-track="pl" group-title="Film" ,Filmbox Action
+http://servlt.plusx.tv:8081/PL_FILMBOX_ACTION/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="FilmboxArthouse.pl" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Arthouse.png" country="pl" audio-track="pl" group-title="Film" ,Filmbox Arthouse
+http://servlt.plusx.tv:8081/PL_FILMBOX_ARTHOUSE/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="FilmboxExtra.pl" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Extra.png" country="pl" audio-track="pl" group-title="Film" ,Filmbox Extra
+http://servlt.plusx.tv:8081/PL_FILMBOX_EXTRA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="FilmboxPremium.pl" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Premium.png" country="pl" audio-track="pl" group-title="Film" ,Filmbox Premium HD
+http://servlt.plusx.tv:8081/PL_FILMBOX_PREMIUM/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="FokusTV.pl" tvg-logo="http://logo.plusx.tv/logo/Fokus%20TV.png" country="pl" audio-track="pl" group-title="Dokument" ,Fokus TV
+http://servlt.plusx.tv:8081/PL_FOKUS_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Fox.pl" tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,FOX HD
+http://servlt.plusx.tv:8081/PL_FOX_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="H2.pl" tvg-logo="http://logo.plusx.tv/logo/H2%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,H2 HD
+http://servlt.plusx.tv:8081/PL_H2_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="HGTV.pl" tvg-logo="http://logo.plusx.tv/logo/HGTV.png" country="pl" audio-track="pl" group-title="Rozrywka" ,HGTV
+http://servlt.plusx.tv:8081/PL_HGTV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="History.pl" tvg-logo="http://logo.plusx.tv/logo/History%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,History HD
+http://servlt.plusx.tv:8081/PL_HISTORY_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="InvestigationDiscovery.pl" tvg-logo="http://logo.plusx.tv/logo/ID%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,ID HD
+http://servlt.plusx.tv:8081/PL_ID_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="KinoPolskaMuzyka.pl" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska%20Muzyka.png" country="pl" audio-track="pl" group-title="Muzyka" ,Kino Polska Muzyka
+http://servlt.plusx.tv:8081/PL_KINO_POLSKA_MUZYKA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="KinoPolska.pl" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png" country="pl" audio-track="pl" group-title="Film" ,Kino Polska
+http://servlt.plusx.tv:8081/PL_KINO_POLSKA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="KinoTV.pl" tvg-logo="http://logo.plusx.tv/logo/Kino%20TV.png" country="pl" audio-track="pl" group-title="Film" ,Kino TV
+http://servlt.plusx.tv:8081/PL_KINO_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Motowizja.pl" tvg-logo="http://logo.plusx.tv/logo/Motowizja%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,Motowizja HD
+http://servlt.plusx.tv:8081/PL_MOTOWIZJA_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="MTVMusicPolska.pl" tvg-logo="http://logo.plusx.tv/logo/MTV%20Music.png" country="pl" audio-track="pl" group-title="Muzyka" ,MTV Music
+http://servlt.plusx.tv:8081/PL_MTV_MUSIC/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="MTVNHD.pl" tvg-logo="http://logo.plusx.tv/logo/MTV%20Live%20HD.png" country="pl" audio-track="pl" group-title="Muzyka" ,MTV Live HD
+http://servlt.plusx.tv:8081/PL_MTV_LIVE_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="nsport.pl" tvg-logo="http://logo.plusx.tv/logo/nSport+%20HD.png" country="pl" audio-track="pl" group-title="Sport" ,nSport+ HD
+http://servlt.plusx.tv:8081/PL_NSPORT+/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="NatGeoPeople.pl" tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20People%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,Nat Geo People HD
+http://servlt.plusx.tv:8081/PL_NATGEO_PEOPLE_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="NatGeoWildHD.pl" tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20Wild.png" country="pl" audio-track="pl" group-title="Dokument" ,Nat Geo Wild
+http://servlt.plusx.tv:8081/PL_NATGEO_WILD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="NationalGeographic.pl" tvg-logo="http://logo.plusx.tv/logo/National%20Geographic.png" country="pl" audio-track="pl" group-title="Dokument" ,National Geographic
+http://servlt.plusx.tv:8081/PL_NATIONAL_GEO/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="NutaTV.pl" tvg-logo="http://logo.plusx.tv/logo/Nuta%20TV.png" country="pl" audio-track="pl" group-title="Muzyka" ,Nuta TV
+http://servlt.plusx.tv:8081/PL_NUTA_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="NowaTV.pl" tvg-logo="http://logo.plusx.tv/logo/NOWA%20TV.png" country="pl" audio-track="pl" group-title="Popularny" ,Nowa TV
+http://servlt.plusx.tv:8081/PL_NOWA_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Paramount.pl" tvg-logo="http://logo.plusx.tv/logo/Paramount%20Channel%20HD.png" country="pl" audio-track="pl" group-title="Film" ,Paramount Channel HD
+http://servlt.plusx.tv:8081/PL_PARAMOUNT_CHANNEL_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PLANETE.pl" tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,Planete+ HD
+http://servlt.plusx.tv:8081/PL_PLANETE+_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatGames.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Games.png" country="pl" audio-track="pl" group-title="Film" ,Polsat Games HD
+http://servlt.plusx.tv:8081/PL_POLSAT_GAMES/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Polsat2.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%202%20HD.png" country="pl" audio-track="pl" group-title="Popularny" ,Polsat 2 HD
+http://servlt.plusx.tv:8081/PL_POLSAT2_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatDoku.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Doku%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,Polsat Doku HD
+http://servlt.plusx.tv:8081/PL_POLSAT_DOKU_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatFilm.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Film%20HD.png" country="pl" audio-track="pl" group-title="Film" ,Polsat Film HD
+http://servlt.plusx.tv:8081/PL_POLSAT_FILM_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Polsat.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20HD.png" country="pl" audio-track="pl" group-title="Popularny" ,Polsat HD
+http://servlt.plusx.tv:8081/PL_POLSAT_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatNews2.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%202.png" country="pl" audio-track="pl" group-title="Informacje" ,Polsat News 2
+http://servlt.plusx.tv:8081/PL_POLSAT_NEWS_2/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatNews.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png" country="pl" audio-track="pl" group-title="Informacje" ,Polsat News HD
+http://servlt.plusx.tv:8081/PL_POLSAT_NEWS_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatPlay.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Play%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Polsat Play HD
+http://servlt.plusx.tv:8081/PL_POLSAT_PLAY_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ViasatHistory.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20History%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,Polsat Viasat History HD
+http://servlt.plusx.tv:8081/PL_POLSAT_VIASAT_HISTORY_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ViasatExplorer.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,Polsat Viasat Explore HD
+http://servlt.plusx.tv:8081/PL_POLSAT_VIASAT_EXPLORE_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ViasatNature.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Nature%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,Polsat Viasat Nature
+http://servlt.plusx.tv:8081/PL_POLSAT_VIASAT_NATURE/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVPuls2.pl" tvg-logo="http://logo.plusx.tv/logo/Puls%202.png" country="pl" audio-track="pl" group-title="Popularny" ,Puls 2
+http://servlt.plusx.tv:8081/PL_PULS2/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="SciFi.pl" tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png" country="pl" audio-track="pl" group-title="Film" ,SciFi
+http://servlt.plusx.tv:8081/PL_SCIFI_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="StopklatkaTV.pl" tvg-logo="http://logo.plusx.tv/logo/Stopklatka%20TV.png" country="pl" audio-track="pl" group-title="Film" ,Stopklatka TV
+http://servlt.plusx.tv:8081/PL_STOPKLATKA_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="SuperPolsat.pl" tvg-logo="http://logo.plusx.tv/logo/Super%20Polsat%20HD.png" country="pl" audio-track="pl" group-title="Popularny" ,Super Polsat HD
+http://servlt.plusx.tv:8081/PL_SUPER_POLSAT/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TLC.pl" tvg-logo="http://logo.plusx.tv/logo/TLC%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,TLC HD
+http://servlt.plusx.tv:8081/PL_TLC_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TCM.pl" tvg-logo="http://logo.plusx.tv/logo/TNT.png" country="pl" audio-track="pl" group-title="Film" ,TNT
+http://servlt.plusx.tv:8081/PL_TNT_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TO!TV.pl" tvg-logo="http://logo.plusx.tv/logo/TO!TV.png" country="pl" audio-track="pl" group-title="Muzyka" ,TOTV
+http://servlt.plusx.tv:8081/PL_TO_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TTV.PL" tvg-logo="http://logo.plusx.tv/logo/TTV%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,TTV HD
+http://servlt.plusx.tv:8081/PL_TTV_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVPuls.pl" tvg-logo="http://logo.plusx.tv/logo/TV%20Puls%20HD.png" country="pl" audio-track="pl" group-title="Popularny" ,TV Puls HD
+http://servlt.plusx.tv:8081/PL_TV_PULS_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVNCNBCBiznes.pl" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20BiS%20HD.png" country="pl" audio-track="pl" group-title="Informacje" ,TVN 24 BiS HD
+http://servlt.plusx.tv:8081/PL_TVN24_BIS_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVN.pl" tvg-logo="http://logo.plusx.tv/logo/TVN%20HD.png" country="pl" audio-track="pl" group-title="Popularny" ,TVN HD
+http://servlt.plusx.tv:8081/PL_TVN_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Travel.pl" tvg-logo="http://logo.plusx.tv/logo/Travel%20Channel%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Travel Channel HD
+http://servlt.plusx.tv:8081/PL_TRAVEL_CHANNEL_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="VH1European.pl" tvg-logo="http://logo.plusx.tv/logo/VH1.png" country="pl" audio-track="pl" group-title="Muzyka" ,VH1
+http://servlt.plusx.tv:8081/PL_VH1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="VoxMusicTV.pl" tvg-logo="http://logo.plusx.tv/logo/VOX%20Music%20TV.png" country="pl" audio-track="pl" group-title="Muzyka" ,VOX Music TV
+http://servlt.plusx.tv:8081/PL_VOX_MUSIC_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="WP.pl" tvg-logo="http://logo.plusx.tv/logo/WP.png" country="pl" audio-track="pl" group-title="Popularny" ,WP
+http://servlt.plusx.tv:8081/PL_WELLBEING/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ZestTV.pl" tvg-logo="http://logo.plusx.tv/logo/Zest%20TV.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Zest TV
+http://servlt.plusx.tv:8081/PL_ZEST_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ZoomTV.pl" tvg-logo="http://logo.plusx.tv/logo/Zoom%20TV.png" country="pl" audio-track="pl" group-title="Popularny" ,Zoom TV
+http://servlt.plusx.tv:8081/PL_ZOOM_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="13Ulica.pl" tvg-logo="http://logo.plusx.tv/logo/13%20Ulica%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,13 Ulica HD
+http://servlt.plusx.tv:8081/PL_13ULICA_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="4FunDance.pl" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png" country="pl" audio-track="pl" group-title="Muzyka" ,4Fun Dance
+http://servlt.plusx.tv:8081/PL_4FUN_DANCE/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="4FunGoldHits.pl" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Hits.png" country="pl" audio-track="pl" group-title="Muzyka" ,4Fun Gold Hits
+http://servlt.plusx.tv:8081/PL_4FUN_GOLD_HITS/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="4fun.pl" tvg-name="4fun TV" tvg-logo="http://logo.plusx.tv/logo/4Fun.png" country="pl" audio-track="pl" group-title="Muzyka" ,4Fun.TV
+http://servlt.plusx.tv:8081/PL_4FUN_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="AMC.pl" tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png" country="pl" audio-track="pl" group-title="Film" ,AMC HD
+http://servlt.plusx.tv:8081/PL_AMC/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="BBCLifestyle.pl" tvg-name="BBC Lifestyle" tvg-logo="http://logo.plusx.tv/logo/BBC%20Lifestyle%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,BBC Lifestyle HD
+http://servlt.plusx.tv:8081/PL_BBC_LIFESTYLE_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CBeebies.pl" tvg-logo="http://logo.plusx.tv/logo/BBC%20Cbeebies.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,BBC CBeebies
+http://servlt.plusx.tv:8081/PL_BBC_CBEEBIES/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="BabyTV.pl" tvg-logo="http://logo.plusx.tv/logo/Baby%20TV.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,Baby TV
+http://servlt.plusx.tv:8081/PL_BABY_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CartoonNetwork.pl" tvg-logo="http://logo.plusx.tv/logo/Cartoon%20Network%20HD.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,Cartoon Network HD
+http://servlt.plusx.tv:8081/PL_CARTOON_NETWORK_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CinemaxHD.pl" tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png" country="pl" audio-track="pl" group-title="Film" ,Cinemax HD
+http://servlt.plusx.tv:8081/PL_CINEMAX_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="CrimeInvestigation.pl" tvg-logo="http://logo.plusx.tv/logo/CI%20Polsat.png" country="pl" audio-track="pl" group-title="Dokument" ,CI Polsat HD
+http://servlt.plusx.tv:8081/PL_CRIME_+_INVESTIGATION/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="DiscoveryTurboXtra.pl" tvg-logo="http://logo.plusx.tv/logo/DTX%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,DTX HD
+http://servlt.plusx.tv:8081/PL_DTX/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="DiscoPoloMusic.pl" tvg-logo="http://logo.plusx.tv/logo/Disco%20Polo%20Music.png" country="pl" audio-track="pl" group-title="Muzyka" ,Disco Polo Music
+http://servlt.plusx.tv:8081/PL_DISCO_POLO_MUSIC/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="DisneyChannel.pl" tvg-logo="http://logo.plusx.tv/logo/Disney%20Channel%20HD.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,Disney Channel HD
+http://servlt.plusx.tv:8081/PL_DISNEY_CHANNEL_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="DisneyJr.pl" tvg-logo="https://adc3ef35f321fe6e725a-fb8aac3b3bf42afe824f73b606f0aa4c.ssl.cf1.rackcdn.com/tenantlogos/28784.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,Disney Junior
+http://servlt.plusx.tv:8081/PL_DISNEY_JUNIOR/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="DisneyXD.pl" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/257.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,Disney XD
+http://servlt.plusx.tv:8081/PL_DISNEY_XD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="DomoTV.pl" tvg-logo="http://logo.plusx.tv/logo/Domo+.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Domo+
+http://servlt.plusx.tv:8081/PL_DOMO+_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="E!.pl" tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png" country="pl" audio-track="pl" group-title="Rozrywka" ,E! Entertainment HD
+http://servlt.plusx.tv:8081/PL_E_ENTERTAINMENT/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="EPICDramaHD.pl" tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Epic Drama HD
+http://servlt.plusx.tv:8081/PL_EPICDRAMA_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="EskaTV.pl" tvg-logo="http://logo.plusx.tv/logo/Eska%20TV.png" country="pl" audio-track="pl" group-title="Muzyka" ,Eska TV
+http://servlt.plusx.tv:8081/PL_ESKA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="EskaTVExtra.pl" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/EskaTVExtra.png" country="pl" audio-track="pl" group-title="Muzyka" ,Eska TV Extra
+http://servlt.plusx.tv:8081/PL_ESKA_TV_EXTRA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="EskaRockTV.pl" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/11/EskaRockTV.png" country="pl" audio-track="pl" group-title="Muzyka" ,Eska Rock TV
+http://servlt.plusx.tv:8081/PL_ESKA_ROCK_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatFood.pl" tvg-logo="http://logo.plusx.tv/logo/Food%20Network%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Food Network HD
+http://servlt.plusx.tv:8081/PL_FOOD_NETWORK_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Fox.pl" tvg-logo="http://logo.plusx.tv/logo/FOX.png" country="pl" audio-track="pl" group-title="Rozrywka" ,FOX
+http://servlt.plusx.tv:8081/PL_FOX/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="GolfChannel.pl" tvg-logo="http://logo.plusx.tv/logo/Golf%20Channel.png" country="pl" audio-track="pl" group-title="Sport" ,Golf Channel HD
+http://servlt.plusx.tv:8081/PL_GOLF_CHANNEL/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="HGTV.pl" tvg-logo="http://logo.plusx.tv/logo/HGTV%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,HGTV HD
+http://servlt.plusx.tv:8081/PL_HGTV_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="KinoPolska.pl" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png" country="pl" audio-track="pl" group-title="Film" ,Kino Polska HD
+http://servlt.plusx.tv:8081/PL_KINO_POLSKA_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="KUCHNIA.TV.pl" tvg-logo="http://logo.plusx.tv/logo/Kuchnia+%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Kuchnia+ HD
+http://servlt.plusx.tv:8081/PL_KUCHNIA+_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Lifetime.pl" tvg-logo="http://logo.plusx.tv/logo/Lifetime%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Lifetime HD
+http://servlt.plusx.tv:8081/PL_LIFETIME_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="MTV.pl" tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png" country="pl" audio-track="pl" group-title="Muzyka" ,MTV Polska HD
+http://servlt.plusx.tv:8081/PL_MTV_POLSKA_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Mango24.pl" tvg-logo="http://logo.plusx.tv/logo/Mango%2024.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Mango 24
+http://servlt.plusx.tv:8081/PL_MANGO24/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Metro.pl" tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png" country="pl" audio-track="pl" group-title="Popularny" ,Metro
+http://servlt.plusx.tv:8081/PL_METRO/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="MINIMINI.pl" tvg-logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,MiniMini+ HD
+http://servlt.plusx.tv:8081/PL_MINIMINI+_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="NTL.pl" tvg-logo="http://logo.plusx.tv/logo/NTL%20Radomsko.png" country="pl" audio-track="pl" group-title="Popularny" ,NTL Radomsko
+http://servlt.plusx.tv:8081/PL_NTL/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="NatGeoWildHD.pl" tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20Wild%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,Nat Geo Wild HD
+http://servlt.plusx.tv:8081/PL_NATGEO_WILD_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="NationalGeographic.pl" tvg-logo="http://logo.plusx.tv/logo/National%20Geographic%20HD.png" country="pl" audio-track="pl" group-title="Dokument" ,National Geographic HD
+http://servlt.plusx.tv:8081/PL_NATIONAL_GEO_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="NickJr.pl" tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,Nick Jr
+http://servlt.plusx.tv:8081/PL_NICK_JR_POLSKA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="NickelodeonHD.pl" tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,Nicktoons HD
+http://servlt.plusx.tv:8081/PL_NICKELODEON_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="NickPolska.pl" tvg-logo="http://logo.plusx.tv/logo/Nickelodeon.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,Nickelodeon
+http://servlt.plusx.tv:8081/PL_NICKELODEON/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PoloTV.pl" tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png" country="pl" audio-track="pl" group-title="Muzyka" ,Polo TV
+http://servlt.plusx.tv:8081/PL_POLO_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatRodzina.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Games.png" country="pl" audio-track="pl" group-title="Film" ,Polsat Rodzina HD
+http://servlt.plusx.tv:8081/PL_POLSAT_RODZINA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatCafe.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Cafe%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Polsat Cafe HD
+http://servlt.plusx.tv:8081/PL_POLSAT_CAFE_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="JimJam.pl" tvg-logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,JimJam Polsat
+http://servlt.plusx.tv:8081/PL_POLSAT_JIMJAM/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PolsatMusic.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Music%20HD.png" country="pl" audio-track="pl" group-title="Muzyka" ,Polsat Music HD
+http://servlt.plusx.tv:8081/PL_POLSAT_MUSIC_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="ZoneRomantica.pl" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Romans.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Polsat Romans
+http://servlt.plusx.tv:8081/PL_POLSAT_ROMANS/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="PowerTV.pl" tvg-logo="http://logo.plusx.tv/logo/Power%20TV.png" country="pl" audio-track="pl" group-title="Muzyka" ,Power TV
+http://servlt.plusx.tv:8081/PL_POWER_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="RedCarpetTV" tvg-logo="http://ideaventures.pl/wp-content/uploads/2018/09/RC_logo_kolor.png" country="pl" audio-track="pl" group-title="Informacje" ,Red Carpet TV
+http://servlt.plusx.tv:8081/PL_RED_CARPET_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="RomanceTV.pl" tvg-logo="http://logo.plusx.tv/logo/Romance%20TV%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,Romance TV HD
+http://servlt.plusx.tv:8081/PL_ROMANCE_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="SciFi.pl" tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png" country="pl" audio-track="pl" group-title="Film" ,SciFi HD
+http://servlt.plusx.tv:8081/PL_SCIFI_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="StarsTV.pl" tvg-logo="http://logo.plusx.tv/logo/Stars%20TV.png" country="pl" audio-track="pl" group-title="Muzyka" ,Stars TV
+http://servlt.plusx.tv:8081/PL_STARS_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="SundanceChannel.pl" tvg-logo="http://logo.plusx.tv/logo/Sundance%20TV%20HD.png" country="pl" audio-track="pl" group-title="Film" ,Sundance TV HD
+http://servlt.plusx.tv:8081/PL_SUNDANCE_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="Teletoon.pl" tvg-logo="http://logo.plusx.tv/logo/Teletoon+%20HD.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,Teletoon+ HD
+http://servlt.plusx.tv:8081/PL_TELETOON+_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TCM.pl" tvg-logo="http://logo.plusx.tv/logo/TNT%20HD.png" country="pl" audio-track="pl" group-title="Film" ,TNT HD
+http://servlt.plusx.tv:8081/PL_TNT_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="VOD205.pl" tvg-logo="http://www.cyfrowypolsat.net/images/pic/pic_vod.jpg" country="pl" audio-track="pl" group-title="Film" ,VOD 205
+http://servlt.plusx.tv:8081/PL_VOD205/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="VOD206.pl" tvg-logo="http://www.cyfrowypolsat.net/images/pic/pic_vod.jpg" country="pl" audio-track="pl" group-title="Film" ,VOD 206
+http://servlt.plusx.tv:8081/PL_VOD206/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="VOD207.pl" tvg-logo="http://www.cyfrowypolsat.net/images/pic/pic_vod.jpg" country="pl" audio-track="pl" group-title="Film" ,VOD 207
+http://servlt.plusx.tv:8081/PL_VOD207/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="VOD208.pl" tvg-logo="http://www.cyfrowypolsat.net/images/pic/pic_vod.jpg" country="pl" audio-track="pl" group-title="Film" ,VOD 208
+http://servlt.plusx.tv:8081/PL_VOD208/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="tvo.pl" tvg-logo="http://logo.plusx.tv/logo/TV%20Okazje.png" country="pl" audio-track="pl" group-title="Rozrywka" ,TV Okazje
+http://servlt.plusx.tv:8081/PL_TV_OKAZJE/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVN7.pl" tvg-logo="http://logo.plusx.tv/logo/TVN%207%20HD.png" country="pl" audio-track="pl" group-title="Popularny" ,TVN 7 HD
+http://servlt.plusx.tv:8081/PL_TVN7_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVNFabula.pl" tvg-logo="http://logo.plusx.tv/logo/TVN%20Fabula%20HD.png" country="pl" audio-track="pl" group-title="Film" ,TVN Fabula HD
+http://servlt.plusx.tv:8081/PL_TVN_FABULA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVNStyle.pl" tvg-logo="http://logo.plusx.tv/logo/TVN%20Style%20HD.png" country="pl" audio-track="pl" group-title="Rozrywka" ,TVN Style HD
+http://servlt.plusx.tv:8081/PL_TVN_STYLE_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVPABC.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%20ABC.png" country="pl" audio-track="pl" group-title="Dla Dzieci" ,TVP ABC
+http://servlt.plusx.tv:8081/PL_TVN_ABC/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVPolonia.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%20Polonia.png" country="pl" audio-track="pl" group-title="Popularny" ,TVP Polonia
+http://servlt.plusx.tv:8081/PL_TVP_POLONIA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVPRozrywka.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%20Rozrywka.png" country="pl" audio-track="pl" group-title="Popularny" ,TVP Rozrywka
+http://servlt.plusx.tv:8081/PL_TVP_ROZKRYWKA/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TVPSeriale.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png" country="pl" audio-track="pl" group-title="Popularny" ,TVP Seriale
+http://servlt.plusx.tv:8081/PL_TVP_SERIALE/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="TraceUrban.pl" tvg-logo="http://logo.plusx.tv/logo/Trace%20Urban.png" country="pl" audio-track="pl" group-title="Muzyka" ,Trace Urban
+http://servlt.plusx.tv:8081/PL_TRACE_TV/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF:0 tvg-id="wPolsce.pl" tvg-logo="http://93.159.131.123/gabi/insert/img/programy/polsat2sd.png" country="pl" audio-track="pl" group-title="Informacje" ,wPolsce.pl
+http://servlt.plusx.tv:8081/PL_WPOLSCE_PL/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+
