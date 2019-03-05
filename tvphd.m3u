@@ -1,4 +1,7 @@
-  
 #EXTM3U
-#EXTINF:0 tvg-id="TVPHD.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%20HD.png" country="pl" audio-track="pl" group-title="Popularny" ,TVP HD
-http://servlt.plusx.tv:8081/PL_TVP_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+#EXTINF: tvg-id="Nasa TV" tvg-logo="http://nasa.com/logo.png",Nasa TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF: tvg-id="MovieClips Trailers" tvg-logo="http://logo.com/logo.png",MovieClips Trailers
+https://www.youtube .com/watch?v=BTOuIvxd578
+#EXTINF: tvg-id="RMF FM" tvg-logo="http://www.rmfon.pl/img/z/RMF-FM-logo.jpg",RMF FM
+http://www.rmfon.pl/n/rmffm.pls
