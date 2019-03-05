@@ -1,7 +1,16 @@
-#EXTM3U
-#EXTINF: tvg-id="Nasa TV" tvg-logo="http://nasa.com/logo.png",Nasa TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF: tvg-id="MovieClips Trailers" tvg-logo="http://logo.com/logo.png",MovieClips Trailers
-https://www.youtube .com/watch?v=BTOuIvxd578
-#EXTINF: tvg-id="RMF FM" tvg-logo="http://www.rmfon.pl/img/z/RMF-FM-logo.jpg",RMF FM
-http://www.rmfon.pl/n/rmffm.pls
+#EXTINF
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="+INFO",* Fluxus IPTV
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="+INFO",+ Like Us!
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rR1Lgwg.png" group-title="+INFO",> Free Entertainment
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="+INFO",= MAR-05-2019
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
+http://www.lengua.com/anthems/USA.mp3
