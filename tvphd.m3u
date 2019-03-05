@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:0 tvg-id="TVPHD.pl" tvg-logo="http://logo.plusx.tv/logo/TVP%20HD.png" country="pl" audio-track="pl" group-title="Popularny" ,TVP HD
-http://servlt.plusx.tv:8081/PL_TVP_HD/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
+http://servlt.plusx.tv:8081/PL_TVP_HD.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxOCAxMjoxOTozNiBBTSZoYXNoX3ZhbHVlPTYxaWQwWWVaaFBnU09Zcys4amxjcGc9PSZ2YWxpZG1pbnV0ZXM9NDUzMTI4OA==
